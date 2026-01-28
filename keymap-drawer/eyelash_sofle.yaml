@@ -23,9 +23,9 @@ layers:
   - $$mdi:arrow-down-bold$$
   - J
   - L
+  - U
   - Y
   - {t: ;, s: ':'}
-  - {t: '`', s: '~'}
   - {t: \, s: '|'}
   - $$mdi:apple-keyboard-caps$$
   - A
